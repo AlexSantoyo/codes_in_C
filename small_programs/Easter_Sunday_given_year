@@ -1,4 +1,4 @@
-/* The day of the month in which Easter Sunday in a given year
+/* The day of the month in which Easter Sunday in a given year falls,
  is given by the first Sunday after the first full moon after the
  March equinox. The following calculations gives the day for a given year
  */
